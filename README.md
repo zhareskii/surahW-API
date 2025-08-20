@@ -1,6 +1,6 @@
 # surah_api
 
-A new Flutter project.
+Aplikasi yang memuat semua surah Al-Quran yang surahnya bisa di dengarkan.
 
 ## Getting Started
 
